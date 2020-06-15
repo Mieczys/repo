@@ -3,17 +3,17 @@
         {
             "id":1,
             "sku": "001",
-            "nombre": "Batman -Matias Izquierdos",
-            "descripcion": "Estatuilla de Batman de 30cm de alto",
-            "precio": "8500",
+            "nombre": "Asus-motherboard",
+            "descripcion": "Asus b450",
+            "precio": "17500",
             "imagen":"https://lucasismael.com.ar/wp-content/uploads/2020/04/20200404-_DSC7458.jpg"
         },
         {
             "id":2,
             "sku": "002",
-            "nombre": "Batman Arkham Origins",
-            "descripcion": "Figura de acción Batman Arkham Origins",
-            "precio": "2500",
+            "nombre": "Asus b570",
+            "descripcion": "Asus 570 m4a",
+            "precio": "30000",
             "imagen":"https://lucasismael.com.ar/wp-content/uploads/2020/06/IMG_20171002_111642_561-scaled.jpg"
         },
         {
